@@ -1,4 +1,4 @@
-// LAB parte D
+// LAB parte D exemplo
 
 // Semana 3 — botão com pull-down externo + debounce por software (polling)
 #include "freertos/FreeRTOS.h"
