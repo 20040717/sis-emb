@@ -1,1 +1,1 @@
-# Laboratório 3
+# Laboratório 3 - sistemas embarcados
