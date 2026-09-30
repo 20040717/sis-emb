@@ -1,6 +1,6 @@
 # Lab 1 — Ambientação: Ubuntu, VS Code, ESP-IDF e o primeiro firmware no Wokwi
 
-> **Antes de começar**: leia a [teoria-01](teoria-01.md) — principalmente a seção 3.1, que
+> **Antes de você começar**: leia a [teoria-01](teoria-01.md) — principalmente a seção 3.1, que
 > detalha linha a linha o código que você vai rodar hoje. Este roteiro é autossuficiente:
 > cada comando vem com a saída esperada e o que fazer quando ela não aparece.
 
